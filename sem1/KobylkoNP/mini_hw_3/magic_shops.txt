@@ -1,0 +1,41 @@
+Shop: Dragon_Lair
+Items: 6
+Weapon Flame_Sword 1500 3.5 85
+Weapon Storm_Axe 1800 6.1 110
+Armor Valkyrie_Shield 800 5.2 60
+Armor Titan_Helmet 650 3.8 40
+Potion Life_Elixir 300 0.1 50.0
+Potion Mana_Potion 250 0.15 25.5
+
+Shop: Moon_Bazaar
+Items: 5
+Weapon Shadow_Bow 1200 2.1 70
+Scroll Lightning_Scroll 450 0.3 Chain_Lightning
+Scroll Fire_Scroll 380 0.25 Fireball
+Scroll Ice_Scroll 420 0.28 Ice_Arrow
+Scroll Lightning_Scroll2 460 0.32 Chain_Lightning
+
+Shop: Wizard_Tower
+Items: 7
+Weapon Archmage_Staff 2000 4.2 95
+Weapon Shadow_Dagger 900 1.2 65
+Armor Invisibility_Cloak 1200 1.8 45
+Armor Speed_Boots 750 2.3 30
+Potion Strength_Potion 400 0.2 30.0
+Potion Invisibility_Potion 350 0.18 45.5
+Scroll Teleport_Scroll 600 0.4 Teleportation
+
+Shop: Alchemy_Lab
+Items: 4
+Potion Immortality_Elixir 5000 0.05 120.0
+Potion Regeneration_Potion 280 0.12 35.7
+Potion Antidote 150 0.08 15.3
+Potion Flight_Potion 880 0.22 60.0
+
+Shop: Dwarf_Forge
+Items: 5
+Weapon Thunder_Hammer 2200 8.5 130
+Weapon Sniper_Crossbow 1600 3.2 90
+Armor Dragon_Armor 1400 7.8 75
+Armor Giant_Bracers 950 4.5 55
+Armor Unicorn_Shield 1100 6.2 65
